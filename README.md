@@ -25,7 +25,7 @@ Company Profiles: Establish a professional presence to attract top talent.
 💻 Technology Stack 
 The specific technologies used for this project are contained within the JOBFIND.zip file. Common stacks for a web platform of this type might include:
 
-Frontend: HTML, CSS, JavaScript, React, 
+Frontend: HTML, JavaScript, React and Tailwind
 
 Backend:Java (Spring Boot)
 
