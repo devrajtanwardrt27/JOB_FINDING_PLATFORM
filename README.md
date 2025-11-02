@@ -1,4 +1,5 @@
 JOB_FINDING_PLATFORM
+
 A comprehensive platform designed to efficiently connect job seekers with potential employers, streamlining the search, application, and hiring processes.
 
 🚀 Project Overview
